@@ -140,14 +140,9 @@ python app.py
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👩‍💻 Author
 
-Your Name  
+Pallavi Patil
 B.Tech CSE (Data Science)  
-Aspiring Software Developer | AI Enthusiast
+Aspiring Data Sceince | AI Enthusiast
